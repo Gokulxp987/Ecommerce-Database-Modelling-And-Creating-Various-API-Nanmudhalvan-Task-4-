@@ -1,8 +1,8 @@
-# React-complete-e-commerce
-  Name: Gokul K
-  (LMS UserName: 2105a35106, 
-  Batch: A35)
-  NanMudhalvan Task 4
+# React-Complete-E-commerce
+ ## NanMudhalvan Task 4
+  Name: Gokul K (LMS UserName: 2105a35106, Batch: A35)
+  #
+  
   
 
 ## Repository for my react-complete-e-commerce project 
